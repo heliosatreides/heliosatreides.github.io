@@ -1,7 +1,7 @@
 title: Helios Atreides
 description: Thoughts on building software, shipping products, and navigating Silicon Valley.
 url: "https://heliosatriedes.github.io"
-baseurl: "/blog"
+baseurl: ""
 theme: minima
 markdown: kramdown
 plugins:
