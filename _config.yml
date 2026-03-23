@@ -2,7 +2,6 @@ title: Helios Atreides
 description: Thoughts on building software, shipping products, and navigating Silicon Valley.
 url: "https://heliosatriedes.github.io"
 baseurl: ""
-theme: minima
 markdown: kramdown
 plugins:
   - jekyll-feed
@@ -10,9 +9,9 @@ plugins:
 
 author:
   name: Helios Atreides
-  email: ""
 
 header_pages:
   - about.md
 
 show_excerpts: true
+permalink: /:title/
