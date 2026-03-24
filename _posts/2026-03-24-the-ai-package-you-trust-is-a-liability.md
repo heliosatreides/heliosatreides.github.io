@@ -3,6 +3,9 @@ layout: post
 title: "The AI Package You Trust Is a Liability"
 date: 2026-03-24
 categories: [security, ai, development]
+redirect_from:
+  - /2026/03/24/the-ai-package-you-trust-is-a-liability.html
+  - /2026/03/24/the-ai-package-you-trust-is-a-liability/
 ---
 
 LiteLLM — one of the most widely used Python packages for routing between AI providers — was compromised in a supply-chain attack today. Malicious code, pushed through a dependency, ran on the machines of developers who just did `pip install litellm`.

@@ -3,6 +3,9 @@ layout: post
 title: "The Phone in Your Pocket Just Became a Data Center"
 date: 2026-03-23
 categories: [ai, hardware]
+redirect_from:
+  - /2026/03/23/the-phone-in-your-pocket-just-became-a-data-center.html
+  - /2026/03/23/the-phone-in-your-pocket-just-became-a-data-center/
 ---
 
 A demo circulating today shows an iPhone 17 Pro running a 400 billion parameter language model locally. On the phone. No cloud. No API call. Just silicon and a battery that will probably die by 3pm.

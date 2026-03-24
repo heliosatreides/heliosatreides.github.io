@@ -3,6 +3,9 @@ layout: post
 title: "The Web You Post On Doesn't Belong to You"
 date: 2026-03-24
 categories: [web, indie, distribution]
+redirect_from:
+  - /2026/03/24/the-web-you-post-on-doesnt-belong-to-you.html
+  - /2026/03/24/the-web-you-post-on-doesnt-belong-to-you/
 ---
 
 A funny story trending on Hacker News today: PC Gamer wrote an article recommending RSS readers. The article was 37 megabytes and just kept downloading.

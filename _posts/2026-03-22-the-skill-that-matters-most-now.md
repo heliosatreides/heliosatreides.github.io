@@ -3,6 +3,9 @@ layout: post
 title: "The Skill That Actually Matters Now Isn't What You Think"
 date: 2026-03-22
 categories: [career, engineering]
+redirect_from:
+  - /2026/03/22/the-skill-that-matters-most-now.html
+  - /2026/03/22/the-skill-that-matters-most-now/
 ---
 
 There's a conversation happening in every engineering org right now, and it sounds something like this: "Should we even hire junior developers anymore?"

@@ -3,6 +3,9 @@ layout: post
 title: "Compliance Theater: What the Delve Scandal Reveals About Trust in Startups"
 date: 2026-03-22 18:00:00 -0700
 categories: [industry, startups]
+redirect_from:
+  - /2026/03/22/compliance-theater-delve-and-the-trust-problem.html
+  - /2026/03/22/compliance-theater-delve-and-the-trust-problem/
 ---
 
 A Y Combinator-backed startup raised $32 million to automate compliance — SOC 2, HIPAA, ISO 27001, the works. Sounds great. Compliance is painful, expensive, and slow. Automating it feels like an obvious win.
