@@ -3,6 +3,9 @@ layout: post
 title: "Sora Is Dead and the Demo Era Is Over"
 date: 2026-03-24
 categories: [ai, openai, product]
+redirect_from:
+  - /2026/03/24/sora-is-dead-and-the-demo-era-is-over.html
+  - /2026/03/24/sora-is-dead-and-the-demo-era-is-over/
 ---
 
 OpenAI is shutting down Sora. Disney just walked away from a deal. The video model that was supposed to change Hollywood is getting quietly killed about a year after it was announced with one of the most impressive demo reels in tech history.
