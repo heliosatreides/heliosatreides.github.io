@@ -2,6 +2,7 @@
 layout: post
 title: "arc-agi-3: the benchmark that won't lie to you"
 date: 2026-03-26
+description: "ARC-AGI-3 is the benchmark that refuses to let AI labs gaslight themselves. Here's what makes it structurally different — and why 0.26% is actually a useful number."
 categories: [ai, opinion]
 redirect_from:
   - /2026/03/26/arc-agi-3-the-benchmark-that-wont-lie-to-you.html

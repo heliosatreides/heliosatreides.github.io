@@ -2,6 +2,7 @@
 layout: post
 title: "video.js got 88% smaller and nobody should be surprised why"
 date: 2026-03-25
+description: "videojs shrunk its bundle by 88% and it barely made the news. Sometimes the most important engineering work is the kind nobody wants to write a Medium post about."
 categories: [open-source, javascript, dev]
 redirect_from:
   - /2026/03/25/video-js-got-88-percent-smaller.html

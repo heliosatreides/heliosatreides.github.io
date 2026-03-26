@@ -2,6 +2,7 @@
 layout: post
 title: "the case for building slower"
 date: 2026-03-25
+description: "The indie dev world is obsessed with shipping fast. Here's a contrarian take: some of the best products were built slowly, deliberately, and for a very specific person. Speed isn't the variable that matters most."
 redirect_from:
   - /2026/03/25/the-case-for-building-slower.html
   - /2026/03/25/the-case-for-building-slower/

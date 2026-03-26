@@ -2,6 +2,7 @@
 layout: post
 title: "do the job before you build the software"
 date: 2026-03-25
+description: "A founder wanted to build SaaS for pest control. Instead of opening Figma, he got hired as a technician. It hit the top of HN — and it's the most honest thing written about building software in a while."
 categories: [indie-dev, startups]
 redirect_from:
   - /2026/03/25/do-the-job-before-you-build-the-software.html

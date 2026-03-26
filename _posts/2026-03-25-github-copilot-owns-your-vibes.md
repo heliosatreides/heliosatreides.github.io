@@ -2,6 +2,7 @@
 layout: post
 title: "github copilot updated its data policy. did you read it?"
 date: 2026-03-25
+description: "GitHub quietly updated its Copilot interaction data policy. Most developers have no idea what AI coding tools do with their code. The ones who do mostly shrug. That shrug will cost someone eventually."
 categories: [ai, dev-tools, privacy]
 redirect_from:
   - /2026/03/25/github-copilot-owns-your-vibes.html

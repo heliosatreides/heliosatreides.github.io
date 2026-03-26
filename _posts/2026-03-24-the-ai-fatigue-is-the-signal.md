@@ -2,6 +2,7 @@
 layout: post
 title: "the ai fatigue is actually the signal"
 date: 2026-03-24
+description: "HN is bored of AI. 600+ upvotes on 'is anyone else tired of talking about AI?' — and that boredom is exactly the signal the industry has been waiting for."
 redirect_from:
   - /2026/03/24/the-ai-fatigue-is-the-signal.html
   - /2026/03/24/the-ai-fatigue-is-the-signal/

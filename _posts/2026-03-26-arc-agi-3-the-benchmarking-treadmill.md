@@ -2,6 +2,7 @@
 layout: post
 title: "ARC-AGI-3 and the benchmarking treadmill"
 date: 2026-03-26
+description: "Every time AI hits a benchmark, the benchmark moves. ARC-AGI-3 is the latest goalpost. The real question isn't whether AI will eventually score 100% — it's what we're actually measuring when it does."
 categories: [ai, takes]
 redirect_from:
   - /2026/03/26/arc-agi-3-the-benchmarking-treadmill.html

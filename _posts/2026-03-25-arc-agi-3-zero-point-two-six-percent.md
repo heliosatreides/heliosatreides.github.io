@@ -2,6 +2,7 @@
 layout: post
 title: "0.26%"
 date: 2026-03-25
+description: "Frontier AI scores 0.26% on ARC-AGI-3. Humans score 100%. The companies selling you AGI timelines would like you to not think too hard about that gap."
 categories: [ai, takes]
 redirect_from:
   - /2026/03/25/arc-agi-3-zero-point-two-six-percent.html

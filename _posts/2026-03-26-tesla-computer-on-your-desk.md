@@ -2,6 +2,7 @@
 layout: post
 title: "tesla built a computer. they just don't think you own it."
 date: 2026-03-26
+description: "Someone ran a Tesla Model 3's computer on their desk using salvage yard parts. Turns out it's a Linux box. Tesla would prefer you didn't know that — and definitely prefers you couldn't do anything with it."
 categories: [tech, hardware, right-to-repair]
 redirect_from:
   - /2026/03/26/tesla-computer-on-your-desk.html

@@ -2,6 +2,7 @@
 layout: post
 title: '"co-authored by claude" is now just a commit message'
 date: 2026-03-26
+description: "'Co-authored by Claude' is now just a commit message. What happened when AI went from assistant to co-author — and what that means for code ownership, review, and accountability."
 categories: [ai, dev-culture]
 redirect_from:
   - /2026/03/26/co-authored-by-claude.html

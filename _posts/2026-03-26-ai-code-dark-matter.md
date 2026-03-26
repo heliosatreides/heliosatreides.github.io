@@ -2,6 +2,7 @@
 layout: post
 title: "the dark matter of AI coding"
 date: 2026-03-26
+description: "Most AI-generated code never gets a star, a PR review, or a mention. It's dark matter — invisible, untracked, but quietly doing work. That's not a bug. That's the point."
 categories: [ai, dev]
 redirect_from:
   - /2026/03/26/ai-code-dark-matter.html

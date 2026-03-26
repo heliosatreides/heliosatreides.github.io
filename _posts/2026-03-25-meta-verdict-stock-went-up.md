@@ -2,6 +2,7 @@
 layout: post
 title: "the meta verdict came in. the stock went up."
 date: 2026-03-25
+description: "A New Mexico jury handed Meta a $375M verdict for knowingly harming children. Meta's stock went up 5%. The incentive structure is working exactly as designed."
 categories: [tech, startups]
 redirect_from:
   - /2026/03/25/meta-verdict-stock-went-up.html

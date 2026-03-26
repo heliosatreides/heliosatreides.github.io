@@ -2,6 +2,7 @@
 layout: post
 title: "github stars are a dumb metric for whether ai coding works"
 date: 2026-03-25
+description: "90% of Claude Code output goes to repos with fewer than 2 stars. The take is that this is a problem. The take is wrong — and it reveals something embarrassing about how we measure things in tech."
 categories: [ai, dev-culture]
 redirect_from:
   - /2026/03/25/github-stars-are-a-dumb-metric.html

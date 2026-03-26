@@ -2,6 +2,7 @@
 layout: post
 title: "the quality debt nobody warned you about"
 date: 2026-03-26
+description: "AI coding tools help you ship faster. They also help you accumulate quality debt faster. The code that ships in half the time still has to be maintained by humans — at full speed."
 categories: [ai, engineering]
 redirect_from:
   - /2026/03/26/the-quality-debt-nobody-warned-you-about.html

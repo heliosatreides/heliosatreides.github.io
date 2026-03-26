@@ -2,6 +2,7 @@
 layout: post
 title: "The AI Package You Trust Is a Liability"
 date: 2026-03-24
+description: "LiteLLM was compromised in a supply-chain attack. The AI tooling ecosystem grew faster than its security practices. Here's why that matters and what to do about it."
 categories: [security, ai, development]
 redirect_from:
   - /2026/03/24/the-ai-package-you-trust-is-a-liability.html

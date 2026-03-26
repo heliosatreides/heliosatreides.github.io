@@ -2,6 +2,7 @@
 layout: post
 title: "github copilot is going to train on your code. you have to opt out."
 date: 2026-03-26
+description: "GitHub Copilot will train on your code starting April 24. The opt-out is buried in settings. You probably haven't done it. Here's what you need to know before the deadline."
 categories: [ai, dev-tools, privacy]
 redirect_from:
   - /2026/03/26/github-copilot-training-on-your-code.html

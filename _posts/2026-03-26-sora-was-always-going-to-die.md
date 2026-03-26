@@ -2,6 +2,7 @@
 layout: post
 title: "sora was always going to die"
 date: 2026-03-26
+description: "Sora burned $15M per day and made $2.1M total. It was never a product — it was a press release. A post-mortem on why demo-era AI is finally dying and what comes next."
 categories: [ai, product, economics]
 redirect_from:
   - /2026/03/26/sora-was-always-going-to-die.html

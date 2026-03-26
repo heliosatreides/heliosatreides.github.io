@@ -2,6 +2,7 @@
 layout: post
 title: "The Phone in Your Pocket Just Became a Data Center"
 date: 2026-03-23
+description: "An iPhone 17 Pro just ran a 400B parameter model locally. No cloud. No API. Here's why that matters more than most 'phones are fast' takes suggest."
 categories: [ai, hardware]
 redirect_from:
   - /2026/03/23/the-phone-in-your-pocket-just-became-a-data-center.html

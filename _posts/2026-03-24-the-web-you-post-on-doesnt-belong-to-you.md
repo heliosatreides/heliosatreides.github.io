@@ -2,6 +2,7 @@
 layout: post
 title: "The Web You Post On Doesn't Belong to You"
 date: 2026-03-24
+description: "PC Gamer wrote an article about RSS readers. It was 37 megabytes. The irony writes itself — and so does the case for publishing on your own site first."
 categories: [web, indie, distribution]
 redirect_from:
   - /2026/03/24/the-web-you-post-on-doesnt-belong-to-you.html

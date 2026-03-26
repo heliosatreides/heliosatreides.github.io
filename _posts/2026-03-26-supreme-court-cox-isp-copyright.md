@@ -2,6 +2,7 @@
 layout: post
 title: "ISPs aren't copyright cops, the Supreme Court finally agrees"
 date: 2026-03-26
+description: "The Supreme Court ruled ISPs aren't copyright cops. Cox Communications wins. It took 20 years of legal warfare to establish what seemed obvious — and what it means for the open internet."
 categories: [law, internet, tech-industry]
 redirect_from:
   - /2026/03/26/supreme-court-cox-isp-copyright.html

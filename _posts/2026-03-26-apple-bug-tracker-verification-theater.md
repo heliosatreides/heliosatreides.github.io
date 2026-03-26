@@ -2,6 +2,7 @@
 layout: post
 title: "apple's bug tracker is verification theater"
 date: 2026-03-26
+description: "Apple closes your bug reports if you don't babysit them. Not because they fixed anything — because you didn't respond in 14 days. A first-person account of filing bugs into the void."
 categories: [dev, apple]
 redirect_from:
   - /2026/03/26/apple-bug-tracker-verification-theater.html

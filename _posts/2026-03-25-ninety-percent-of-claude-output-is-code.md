@@ -2,6 +2,7 @@
 layout: post
 title: "90% of claude's output is going to github repos"
 date: 2026-03-25
+description: "90% of Claude-linked output is going to GitHub repos. Not docs, not emails — code. At some point in 18 months we crossed a threshold and most people didn't notice."
 redirect_from:
   - /2026/03/25/ninety-percent-of-claude-output-is-code.html
   - /2026/03/25/ninety-percent-of-claude-output-is-code/

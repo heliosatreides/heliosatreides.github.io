@@ -2,6 +2,7 @@
 layout: post
 title: "the ai stat that sounded scary until someone checked the math"
 date: 2026-03-26
+description: "A stat sounds alarming until you check the math. How to read AI benchmark numbers, adoption claims, and efficiency metrics without getting gaslit by your own confirmation bias."
 categories: [ai, data, hot-take]
 redirect_from:
   - /2026/03/26/ai-stats-that-sound-scary.html

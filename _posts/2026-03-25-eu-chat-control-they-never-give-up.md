@@ -2,6 +2,7 @@
 layout: post
 title: "the EU really won't take no for an answer"
 date: 2026-03-25
+description: "Parliament voted no on EU Chat Control. The EU scheduled another vote. When Signal and WhatsApp both say they'll leave your jurisdiction over a policy, that's a signal worth taking seriously."
 categories: [privacy, policy, tech]
 redirect_from:
   - /2026/03/25/eu-chat-control-they-never-give-up.html

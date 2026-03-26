@@ -2,6 +2,7 @@
 layout: post
 title: "Compliance Theater: What the Delve Scandal Reveals About Trust in Startups"
 date: 2026-03-22 18:00:00 -0700
+description: "YC-backed Delve raised $32M to automate compliance — but may have been automating the appearance of compliance. What the scandal reveals about trust, audits, and incentive problems in startups."
 categories: [industry, startups]
 redirect_from:
   - /2026/03/22/compliance-theater-delve-and-the-trust-problem.html

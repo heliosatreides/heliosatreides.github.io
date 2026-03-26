@@ -2,6 +2,7 @@
 layout: post
 title: "The Skill That Actually Matters Now Isn't What You Think"
 date: 2026-03-22
+description: "Everyone's asking if AI replaces junior devs. They're asking the wrong question. The skill that actually matters now isn't what you think — and it never was what the job boards said."
 categories: [career, engineering]
 redirect_from:
   - /2026/03/22/the-skill-that-matters-most-now.html

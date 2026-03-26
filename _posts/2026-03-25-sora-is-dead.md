@@ -2,6 +2,7 @@
 layout: post
 title: "sora is dead and it was always going to be"
 date: 2026-03-25
+description: "OpenAI just killed the Sora app. 737 HN comments and everyone has opinions. Here's why this was inevitable — and what the demo trap reveals about building AI consumer products."
 categories: [ai, hot-takes]
 redirect_from:
   - /2026/03/25/sora-is-dead.html

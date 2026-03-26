@@ -2,6 +2,7 @@
 layout: post
 title: "Sora Is Dead and the Demo Era Is Over"
 date: 2026-03-24
+description: "OpenAI killed Sora. Disney walked. The video model that was supposed to change Hollywood is getting quietly buried. What the demo era taught us about building products that last."
 categories: [ai, openai, product]
 redirect_from:
   - /2026/03/24/sora-is-dead-and-the-demo-era-is-over.html

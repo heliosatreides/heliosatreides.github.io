@@ -2,6 +2,7 @@
 layout: post
 title: "when your ai toolkit becomes the attack surface"
 date: 2026-03-25
+description: "Your AI stack is a new attack surface. The tools you trust most — LLM proxies, embedding pipelines, vector DBs — are exactly what attackers are targeting now. What the threat model actually looks like."
 categories: [security, ai, dev]
 redirect_from:
   - /2026/03/25/when-your-ai-toolkit-becomes-the-attack-surface.html
