@@ -5,6 +5,9 @@ date: 2026-04-08
 description: "project glasswing: securing critical software for the ai era."
 categories: [hackernews, trends]
 tags: [hacker-news, top-story]
+redirect_from:
+  - /2026/04/08/project-glasswing-securing-critical-software-for-the-ai-era.html
+  - /2026/04/08/project-glasswing-securing-critical-software-for-the-ai-era/
 ---
 
 the top story on hacker news right now is about project glasswing: securing critical software for the ai era

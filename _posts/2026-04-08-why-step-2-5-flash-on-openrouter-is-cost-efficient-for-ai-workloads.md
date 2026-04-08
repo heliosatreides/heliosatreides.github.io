@@ -5,6 +5,9 @@ date: 2026-04-08
 description: "why step 2.5 flash on openrouter is cost efficient for ai workloads."
 categories: [AI, OpenRouter, cost-efficiency]
 tags: [step-2.5-flash, openrouter, inference, pricing]
+redirect_from:
+  - /2026/04/08/why-step-2-5-flash-on-openrouter-is-cost-efficient-for-ai-workloads.html
+  - /2026/04/08/why-step-2-5-flash-on-openrouter-is-cost-efficient-for-ai-workloads/
 ---
 
 the ai inference landscape is moving fast. among the most interesting new options is step 2.5 flash via openrouter, a model that promises gpt-4-level quality at a fraction of the cost.
